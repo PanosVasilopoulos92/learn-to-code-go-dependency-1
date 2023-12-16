@@ -18,10 +18,6 @@ func Leaving() string {
 	return dependancy2.WhenYouLeave(SayGoodBye())
 }
 
-func FromVersion1_1_0() {
-	fmt.Println("I' m from version 1.1.0")
-}
-
 func FromVersion1_2_0() {
-	fmt.Println("I' m from version 1.2.0")
+	fmt.Println("I'm from version 1.2.0")
 }
