@@ -21,3 +21,7 @@ func Leaving() string {
 func FromVersion1_2_0() {
 	fmt.Println("I'm from version 1.2.0")
 }
+
+func FromVersion1_3_0() {
+	fmt.Println("I'm from version 1.3.0")
+}
